@@ -22,5 +22,6 @@ N               strassen                            strassen_alt runtime(seconds
 256             1.918247                            0.025179                 
 512             18.812998                           0.389816   
 1024            (out of memory)                     2.255645
+2048            (out of memory)                     17.667065
 4096            (out of memory)                     138.928024
 8192            (out of memory)                     1072.925181
